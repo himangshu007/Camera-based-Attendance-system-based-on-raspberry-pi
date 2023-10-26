@@ -18,7 +18,7 @@ The project consists of the following components:
 
 ## Flowchart
 
-![Flowchart](flowchat3.png)
+![Flowchart](flowchart3.png)
 
 The flowchart above illustrates the interactions between the project components, files, and databases.
 
