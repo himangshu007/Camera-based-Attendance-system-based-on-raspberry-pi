@@ -18,8 +18,7 @@ The project consists of the following components:
 
 ## Flowchart
 
-![Flowchart](![mermaid-diagram-2023-10-26-091141](https://github.com/himangshu007/Camera-based-Attendance-system-based-on-raspberry-pi/assets/64637562/a78603a5-c34a-4296-88a4-86c04246b0b5)
-)
+![Flowchart](flowchat3.png)
 
 The flowchart above illustrates the interactions between the project components, files, and databases.
 
