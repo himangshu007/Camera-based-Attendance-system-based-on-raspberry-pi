@@ -32,6 +32,3 @@ To get started with this project, follow the instructions in the respective Pyth
 - Use `gui.py` to control and monitor the system.
 - Customize and extend the project to suit your specific needs.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
